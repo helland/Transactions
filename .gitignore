@@ -1,9 +1,11 @@
 params.py
-.pyc
+params.pyc
+*.pyc
 depricated/
 output/
-sb2016
-sb2017
-sb2018
-sb2019
-sb2020
+sb2016.txt
+sb2017.txt
+sb2018.txt
+sb2019.txt
+sb2020.txt
+*.txt
