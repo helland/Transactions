@@ -4,7 +4,7 @@ I uploaded this as an example of something I coded on my spare time just for fun
 
 
 The text file being read should be in the following format:
-
-31.12.2017	3.69	description of transaction
-29.12.2017	-330	description of this other transaction
-29.12.2017	-930	description of a third transaction
+<br><br>
+31.12.2017	3.69	description of transaction <br>
+29.12.2017	-330	description of this other transaction <br>
+29.12.2017	-930	description of a third transaction <br>
